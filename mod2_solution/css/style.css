@@ -21,18 +21,13 @@ h1 {
 }
 div.section {
   padding: 10px;
-  /*
-  width: 90%;
-  */
   margin-right: auto;
   margin-left: auto;
 }
 div.section-body {
   border: 1px solid black;
   background-color: #cccccc;
-  /*
-  width: 90%;
-  */
+ 
 }
 p.menu-name {
   border: 1px solid black;
@@ -52,7 +47,7 @@ p.menu-desc {
   width: 90%;
 }
 span {
-  line-height: 30px; /* <-- this is what you must define */
+  line-height: 30px;
   vertical-align: middle;
 }
 #menu-title-1 {
