@@ -1,0 +1,26 @@
+.navbar-header .navbar-brand {
+	font-size: 2em;
+	font-style: bold;
+}
+
+.menu {
+  background-color: #EEE;
+}
+
+#nav-list li a {
+	font-size: 1.2em;
+}
+
+.desc {
+  margin: 10px;
+  padding: 10px;
+}
+
+.desc .text-center {
+	font-size: 1.5em;
+	font-style: bold;
+}
+
+.navbar-collapse {
+  background-color: #cce3e7;
+}
